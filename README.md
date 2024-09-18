@@ -28,7 +28,7 @@ SkyCast is a modern, responsive weather application built with Next.js 14. It al
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/skycast.git
+git clone https://github.com/AvishkaGihan/skycast.git
 ```
 
 ### Install dependencies
